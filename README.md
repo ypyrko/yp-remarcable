@@ -12,7 +12,7 @@ If you prefer using Docker, follow these steps (NOTE!!! make sure you have Docke
 
 2. Start the application using Docker:
     ```bash
-    docker run -p 8000:8000 remarcable
+    docker run -p 8000:8000 yp-remarcable
     ```
 
 The application will be available at [http://127.0.0.1:8000](http://127.0.0.1:8000).
